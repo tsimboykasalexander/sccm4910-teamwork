@@ -14,6 +14,6 @@ if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
     # This is a Greating from tsimboykasalexander
-    print("Hello from tsimboykasalexander")  #this is a greeting from me
-                                          #this is a test comment
+    print("Hello from tsimboykasalexander")
+                                          
 
